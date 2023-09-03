@@ -1,2 +1,2 @@
 # exploratoryanalysis
-I performed an exploratory analysis on data which includes three related tables.
+I performed an exploratory analysis for drug prescription on data which includes three related tables.
